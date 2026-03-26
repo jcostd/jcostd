@@ -7,23 +7,30 @@ Passionate Software Developer, Free Software Advocate, and UNIX enthusiast. I bu
 
 ** ⚙️ System Status
 - 🎓 Compiling knowledge at *Ca' Foscari University of Venice* (Computer Science)
-- 🧠 Currently allocating memory for: =Elisp=, =Ruby on Rails=, and =UNIX Systems Programming=
-- 💬 Ping me about: =C=, =C++=, =Ruby=, =Java=
+- 🧠 Currently allocating memory for: =Golang=, =Lisp/Elisp=, and =UNIX Systems Programming=
+- 💬 Ping me about: =C=, =C++=, =Golang=, =Ruby=
 - 📫 Send a signal: [[mailto:jacopocostantini32@gmail.com][jacopocostantini32@gmail.com]]
+- 🌐 Socials: =/dev/null= (GitHub is my only active network)
 
 * 🛠️ Tech Stack & Environment
 
-*** 🐧 Systems & OS
+*** 💻 Core Languages
 [[https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white]]
 [[https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=Cplusplus&logoColor=white]]
-[[https://img.shields.io/badge/Java-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white]]
+[[https://img.shields.io/badge/Go-00ADD8.svg?style=for-the-badge&logo=Go&logoColor=white]]
+[[https://img.shields.io/badge/Lisp-F05032.svg?style=for-the-badge&logo=linux&logoColor=white]]
+[[https://img.shields.io/badge/Elisp-7F5AB6.svg?style=for-the-badge&logo=GNU%20Emacs&logoColor=white]]
+[[https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white]]
+
+*** 🐧 Operating Systems
+[[https://img.shields.io/badge/Debian-A81D33.svg?style=for-the-badge&logo=Debian&logoColor=white]]
+[[https://img.shields.io/badge/Devuan-444444.svg?style=for-the-badge&logo=linux&logoColor=white]]
 [[https://img.shields.io/badge/Gentoo-54487A.svg?style=for-the-badge&logo=Gentoo&logoColor=white]]
 [[https://img.shields.io/badge/macos-000000.svg?style=for-the-badge&logo=Apple&logoColor=white]]
 
-*** 🕸️ Scripting & Web
-[[https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white]]
-[[https://img.shields.io/badge/Ruby%20on%20Rails-CC0000.svg?style=for-the-badge&logo=Ruby%20on%20Rails&logoColor=white]]
+*** 🕸️ Web & Scripting
 [[https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white]]
+[[https://img.shields.io/badge/Ruby%20on%20Rails-CC0000.svg?style=for-the-badge&logo=Ruby%20on%20Rails&logoColor=white]]
 [[https://img.shields.io/badge/Node%20JS-339933.svg?style=for-the-badge&logo=node.js&logoColor=white]]
 [[https://img.shields.io/badge/Typescript-3178C6.svg?style=for-the-badge&logo=Typescript&logoColor=white]]
 [[https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=000]]
@@ -38,8 +45,5 @@ Passionate Software Developer, Free Software Advocate, and UNIX enthusiast. I bu
 [[https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white]]
 [[https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white]]
 
-* 📊 Telemetry
-
-[[https://github-readme-stats.vercel.app/api?username=jcostd&show_icons=true&theme=radical]]
-
-[[https://github-readme-stats.vercel.app/api/top-langs/?username=jcostd&layout=compact&theme=radical]]
+*** ☕ Legacy / Survival Skills
+- =Java= /(I know it, but please don't recruit me for it)/
