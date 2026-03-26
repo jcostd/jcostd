@@ -43,6 +43,7 @@ Passionate Software Developer, Free Software Advocate, and UNIX enthusiast. I bu
 [[https://img.shields.io/badge/Org-77AA99.svg?style=for-the-badge&logo=Org&logoColor=white]]
 [[https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white]]
 [[https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white]]
+[[https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white]]
 [[https://img.shields.io/badge/git-F05032.svg?style=for-the-badge&logo=git&logoColor=white]]
 
 *** ☕ Legacy / Survival Skills
